@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hashKnownHosts="true">
+        <option name="hashHost" value="true" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="62ce62f6-0463-4540-ac68-04000e91cb24" name="mendy.jp" url="http://mendy.xyg.jp">
+        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp/cake" accessType="SFTP" username="anon" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e7def06a-4df6-4c14-a656-0940db6d5631" name="mendy.jp (1)" url="http://mendy.xyg.jp">
+        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp" accessType="SFTP" username="anon" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ebc038cd-3936-4f0d-b5de-76100abdbf41" name="MENDY.jp" url="http://mendy.xyg.jp">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Workspace/repos/mendy.jp" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
