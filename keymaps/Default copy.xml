@@ -3,6 +3,7 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DebugClass" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
@@ -17,79 +18,6 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="meta end" />
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="meta home" />
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="FileChooser.GotoDesktop" />
-  <action id="Jdbc.OpenTableEditor">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-  </action>
-  <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="SelectAllOccurrences">
-    <keyboard-shortcut first-keystroke="ctrl meta g" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
-  </action>
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="SendEOF" />
-  <action id="ShelvedChanges.Diff" />
-  <action id="ShowNavBar">
-    <keyboard-shortcut first-keystroke="alt home" />
-  </action>
-  <action id="Switcher" />
-  <action id="Uml.ShowDiff" />
-  <action id="UnselectPreviousOccurrence">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="openAssertEqualsDiff" />
-</keymap>
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="CompareTwoFiles" />
-  <action id="Console.TableResult.NavigateAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Diff.FocusOppositePane" />
-  <action id="Diff.FocusOppositePaneAndScroll" />
-  <action id="Diff.ShowDiff" />
-  <action id="Diff.ShowSettingsPopup" />
-  <action id="DomCollectionControl.Edit">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="EditorDuplicate" />
-  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="EditorNextWordWithSelection" />
-  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
-  <action id="EditorPreviousWordWithSelection" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -114,10 +42,12 @@
   <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="RemoteHostView.EditSource">
@@ -127,7 +57,8 @@
   <action id="ResizeToolWindowUp" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -138,22 +69,11 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
   <action id="Switcher" />
   <action id="Uml.ShowDiff" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
