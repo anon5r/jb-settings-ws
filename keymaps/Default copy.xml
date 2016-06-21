@@ -3,6 +3,7 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DebugClass" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
@@ -21,14 +22,24 @@
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -42,8 +53,11 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="SelectNextOccurrence">
