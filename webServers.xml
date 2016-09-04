@@ -7,10 +7,13 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="ebc038cd-3936-4f0d-b5de-76100abdbf41" name="MENDY開発環境" url="http://mendy.xyg.jp">
-        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp/cake" accessType="SFTP" username="anon" keyPair="true">
+        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp/cake" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcOdXbI5/7w986M//jlIF9t8D66UJk5f4xzF2aeq8DSFJ0yZ7K4Rg9+3FDmkxX+8fEi/qtmVSAfZq5pGybGQxKDy0D1oHDGrn49fyIeJBnuNmWVnWVgEbDU4zhyuBrtczBOihxcRDFo5WIAbiza7RqdSRCfRu3Hhr4niWIHPGkdJZ</data>
   </component>
 </application>
