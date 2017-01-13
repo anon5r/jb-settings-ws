@@ -6,8 +6,12 @@
           <option name="url" value="git@gitbit.net:mendy/mendy.jp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.kleolab.com:games/preregist.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/repos" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/eclipse/games" />
   </component>
 </application>
