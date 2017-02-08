@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php,*.ctp" />
+    <option name="FILE_MASK" value="*.php,*.ctp,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +19,7 @@
       <mask>*.sql</mask>
       <mask>*.php</mask>
       <mask>*.php,*.ctp</mask>
+      <mask>*.php,*.ctp,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
