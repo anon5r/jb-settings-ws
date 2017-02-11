@@ -4,6 +4,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping ext="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="BRV_USER_LIFECYCLE_HISTORY.sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
