@@ -11,9 +11,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="db5f5dca-962b-4c28-8abb-07d64acfcebc" name="anoncom.net" url="https://dev.anoncom.net">
+        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/dev.anoncom.net" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAAAcPHlOFJMEbIc2h78mY6dFDSKzZSBM7rTBRgktpn1IvoFjuYBtbf5GcszZ1X+rbk7o74K7mBdYjewaBdTceyJI6aaBHQ7bx+WneVi+puyLzEq6cfWC6YwEncrfgVhYRtGxlXtH2qm6AsuMqA4fOvrixn6dMEMyFOVX9wWHgdVhO8n</data>
   </component>
 </application>
