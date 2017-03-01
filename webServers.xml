@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="ebc038cd-3936-4f0d-b5de-76100abdbf41" name="MENDY開発環境" url="http://mendy.xyg.jp">
-        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp/cake" accessType="SFTP" keyPair="true">
+        <fileTransfer host="219.94.234.102" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/www/mendy.jp" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
