@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... - [anoncom.net]'" />
-    <option name="defaultScopeName" value="Directory '... - [anoncom.net]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... - [anoncom.net]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php,*.ctp,*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
