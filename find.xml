@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,*.ctp,*.js" />
+    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +18,19 @@
       <mask>*.php</mask>
       <mask>*.php,*.ctp</mask>
       <mask>*.php,*.ctp,*.js</mask>
+      <mask>*.php,*.c,*.js</mask>
+      <mask>*.php,*.cs,*.js</mask>
+      <mask>*.php,*.css,*.js</mask>
+      <mask>*.sa,*.css,*.js</mask>
+      <mask>*.sas,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js.</mask>
+      <mask>*.sass,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js,</mask>
+      <mask>*.sass,*.css,*.js,*</mask>
+      <mask>*.sass,*.css,*.js,*.</mask>
+      <mask>*.sass,*.css,*.js,*.r</mask>
+      <mask>*.sass,*.css,*.js,*.rb</mask>
+      <mask>*.scss,*.css,*.js,*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
