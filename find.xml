@@ -3,21 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,*.ctp,*.js" />
+    <option name="FILE_MASK" value="*.rb,*.html,*.js,*.haml,*.yml,*.js,*.scss" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sql</mask>
-      <mask>*.php</mask>
-      <mask>*.php,*.ctp</mask>
-      <mask>*.php,*.ctp,*.js</mask>
+      <mask>*.rb,*.ht,*.js</mask>
+      <mask>*.rb,*.html,*.js.</mask>
+      <mask>*.rb,*.html,*.js</mask>
+      <mask>*.rb,*.html,*.js,</mask>
+      <mask>*.rb,*.html,*.js,*</mask>
+      <mask>*.rb,*.html,*.js,*.</mask>
+      <mask>*.rb,*.html,*.js,*.s</mask>
+      <mask>*.rb,*.html,*.js,*.sc</mask>
+      <mask>*.rb,*.html,*.js,*.scs</mask>
+      <mask>*.rb,*.html,*.js,*.scss</mask>
+      <mask>*.rb,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.yaml,*.js,*.scss</mask>
+      <mask>*.rb,*.yaml,*.yaml,*.js,*.scss</mask>
+      <mask>*.rb,*.yaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ｈhaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ｈaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.jaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.aml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ht,*.jsaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ht,*.jaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ht,*.aml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ht,*aml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.ht,aml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.htaml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.html,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.rb,*.html,*.js,*.haml,*.yml,*.js,*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
