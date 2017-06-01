@@ -129,6 +129,9 @@
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
