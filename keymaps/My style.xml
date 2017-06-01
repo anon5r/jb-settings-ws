@@ -73,6 +73,12 @@
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="alt right" />
@@ -118,6 +124,10 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MoveElementLeft" />
