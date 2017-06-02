@@ -7,19 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
     <recentFileMasks>
-      <mask>*.rb,*.ht,*.js</mask>
-      <mask>*.rb,*.html,*.js.</mask>
-      <mask>*.rb,*.html,*.js</mask>
-      <mask>*.rb,*.html,*.js,</mask>
-      <mask>*.rb,*.html,*.js,*</mask>
-      <mask>*.rb,*.html,*.js,*.</mask>
-      <mask>*.rb,*.html,*.js,*.s</mask>
-      <mask>*.rb,*.html,*.js,*.sc</mask>
-      <mask>*.rb,*.html,*.js,*.scs</mask>
-      <mask>*.rb,*.html,*.js,*.scss</mask>
-      <mask>*.rb,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.yaml,*.js,*.scss</mask>
-      <mask>*.rb,*.yaml,*.yaml,*.js,*.scss</mask>
       <mask>*.rb,*.yaml,*.yml,*.js,*.scss</mask>
       <mask>*.rb,*.ｈhaml,*.yml,*.js,*.scss</mask>
       <mask>*.rb,*.ｈaml,*.yml,*.js,*.scss</mask>
