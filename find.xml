@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb,*.html,*.js,*.haml,*.yml,*.js,*.scss" />
+    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
     <recentFileMasks>
       <mask>*.rb,*.ht,*.js</mask>
       <mask>*.rb,*.html,*.js.</mask>
@@ -35,6 +37,19 @@
       <mask>*.rb,*.,*.haml,*.yml,*.js,*.scss</mask>
       <mask>*.rb,*.html,*.haml,*.yml,*.js,*.scss</mask>
       <mask>*.rb,*.html,*.js,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.php,*.c,*.js</mask>
+      <mask>*.php,*.cs,*.js</mask>
+      <mask>*.php,*.css,*.js</mask>
+      <mask>*.sa,*.css,*.js</mask>
+      <mask>*.sas,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js.</mask>
+      <mask>*.sass,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js,</mask>
+      <mask>*.sass,*.css,*.js,*</mask>
+      <mask>*.sass,*.css,*.js,*.</mask>
+      <mask>*.sass,*.css,*.js,*.r</mask>
+      <mask>*.sass,*.css,*.js,*.rb</mask>
+      <mask>*.scss,*.css,*.js,*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
