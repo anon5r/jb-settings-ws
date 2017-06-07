@@ -2,28 +2,17 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
+    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html" />
     <recentFileMasks>
-      <mask>*.rb,*.yaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ｈhaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ｈaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.jaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.aml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ht,*.jsaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ht,*.jaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ht,*.aml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ht,*aml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.ht,aml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.htaml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.haml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,,*.haml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*,*.haml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.,*.haml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.html,*.haml,*.yml,*.js,*.scss</mask>
-      <mask>*.rb,*.html,*.js,*.haml,*.yml,*.js,*.scss</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.sql</mask>
+      <mask>*.php</mask>
+      <mask>*.php,*.ctp</mask>
+      <mask>*.php,*.ctp,*.js</mask>
       <mask>*.php,*.c,*.js</mask>
       <mask>*.php,*.cs,*.js</mask>
       <mask>*.php,*.css,*.js</mask>
@@ -37,6 +26,15 @@
       <mask>*.sass,*.css,*.js,*.r</mask>
       <mask>*.sass,*.css,*.js,*.rb</mask>
       <mask>*.scss,*.css,*.js,*.rb</mask>
+      <mask>**.scss,*.css,*.js,*.rb</mask>
+      <mask>*.*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.p*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html</mask>
     </recentFileMasks>
   </component>
 </application>
