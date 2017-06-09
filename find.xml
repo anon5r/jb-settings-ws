@@ -5,16 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
+    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb,*.html,*.haml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
       <mask>*.php</mask>
@@ -33,6 +25,18 @@
       <mask>*.sass,*.css,*.js,*.r</mask>
       <mask>*.sass,*.css,*.js,*.rb</mask>
       <mask>*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.scss,*.css,*.js,*.rb,</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.*</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.htm</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,*</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,*.</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,*.h</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,*.ha</mask>
+      <mask>*.scss,*.css,*.js,*.rb,*.html,*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
