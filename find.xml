@@ -3,38 +3,43 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.ctp,*.html" />
+    <option name="FILE_MASK" value="*.scss,*.css,*.js,*.rb" />
     <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.sql</mask>
+      <mask>*.php</mask>
+      <mask>*.php,*.ctp</mask>
+      <mask>*.php,*.ctp,*.js</mask>
+      <mask>*.php,*.c,*.js</mask>
+      <mask>*.php,*.cs,*.js</mask>
+      <mask>*.php,*.css,*.js</mask>
+      <mask>*.sa,*.css,*.js</mask>
+      <mask>*.sas,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js.</mask>
+      <mask>*.sass,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js,</mask>
+      <mask>*.sass,*.css,*.js,*</mask>
+      <mask>*.sass,*.css,*.js,*.</mask>
+      <mask>*.sass,*.css,*.js,*.r</mask>
       <mask>*.sass,*.css,*.js,*.rb</mask>
       <mask>*.scss,*.css,*.js,*.rb</mask>
-      <mask>*.scss,*.css,*.js,*.rb,</mask>
-      <mask>*.scss,*.css,*.js,*.rb,**</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.p</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.ph</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.ypm</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.yp</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.y</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.t</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tp</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.ht</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.htm</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,**.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.*.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.c*.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.ct*.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.ctp*.html</mask>
-      <mask>*.scss,*.css,*.js,*.rb,*.php,*.tpl,*.ctp,*.html</mask>
+      <mask>**.scss,*.css,*.js,*.rb</mask>
+      <mask>*.*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.p*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html</mask>
     </recentFileMasks>
   </component>
 </application>
