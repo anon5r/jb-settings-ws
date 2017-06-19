@@ -3,8 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*.yml" />
+    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtml" />
     <recentFileMasks>
+      <mask>*.php,*.ctp,*.js</mask>
+      <mask>*.php,*.c,*.js</mask>
+      <mask>*.php,*.cs,*.js</mask>
+      <mask>*.php,*.css,*.js</mask>
       <mask>*.sa,*.css,*.js</mask>
       <mask>*.sas,*.css,*.js</mask>
       <mask>*.sass,*.css,*.js.</mask>
@@ -27,14 +31,10 @@
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.ha</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*.</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*.y</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*.ym</mask>
-      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.haml,*.yml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.p</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.pht</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtm</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
