@@ -3,17 +3,10 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtml" />
+    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml" />
     <recentFileMasks>
-      <mask>*.php,*.ctp,*.js</mask>
-      <mask>*.php,*.c,*.js</mask>
-      <mask>*.php,*.cs,*.js</mask>
-      <mask>*.php,*.css,*.js</mask>
-      <mask>*.sa,*.css,*.js</mask>
       <mask>*.sas,*.css,*.js</mask>
       <mask>*.sass,*.css,*.js.</mask>
       <mask>*.sass,*.css,*.js</mask>
@@ -39,6 +32,11 @@
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.pht</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtm</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,**.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.c,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
