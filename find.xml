@@ -1,25 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sql</mask>
-      <mask>*.php</mask>
+      <mask>*.sas,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js.</mask>
+      <mask>*.sass,*.css,*.js</mask>
+      <mask>*.sass,*.css,*.js,</mask>
+      <mask>*.sass,*.css,*.js,*</mask>
+      <mask>*.sass,*.css,*.js,*.</mask>
+      <mask>*.sass,*.css,*.js,*.r</mask>
+      <mask>*.sass,*.css,*.js,*.rb</mask>
+      <mask>*.scss,*.css,*.js,*.rb</mask>
+      <mask>**.scss,*.css,*.js,*.rb</mask>
+      <mask>*.*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.p*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.p</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.pht</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtm</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,**.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.c,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
