@@ -121,6 +121,10 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
