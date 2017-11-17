@@ -34,15 +34,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift ctrl slash" />
-    <keyboard-shortcut first-keystroke="shift meta slash" />
-  </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-    <keyboard-shortcut first-keystroke="meta slash" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diff.FocusOppositePane" />
@@ -66,14 +57,6 @@
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
-  </action>
-  <action id="EditorCodeBlockEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
-    <keyboard-shortcut first-keystroke="shift meta down" />
-  </action>
-  <action id="EditorCodeBlockStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
-    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorLineEnd">
@@ -120,17 +103,9 @@
     <keyboard-shortcut first-keystroke="ctrl end" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl end" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
-  </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl home" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta up" />
   </action>
   <action id="Exit">
     <keyboard-shortcut first-keystroke="meta q" />
