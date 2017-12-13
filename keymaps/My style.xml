@@ -34,6 +34,11 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diff.FocusOppositePane" />
