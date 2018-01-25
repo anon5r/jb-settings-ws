@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'BraveServer'" />
+    <option name="defaultScopeName" value="Project 'BraveServer'" />
+    <option name="SEARCH_SCOPE" value="Project 'BraveServer'" />
     <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml" />
     <recentFileMasks>
       <mask>*.sas,*.css,*.js</mask>
