@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml" />
+    <option name="FILE_MASK" value="*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml,*.js" />
     <recentFileMasks>
-      <mask>*.sas,*.css,*.js</mask>
       <mask>*.sass,*.css,*.js.</mask>
       <mask>*.sass,*.css,*.js</mask>
       <mask>*.sass,*.css,*.js,</mask>
@@ -35,6 +34,7 @@
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.,*.phtml</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.c,*.phtml</mask>
       <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml</mask>
+      <mask>*.php,*.scss,*.css,*.js,*.rb,*.html,*.ctp,*.phtml,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
