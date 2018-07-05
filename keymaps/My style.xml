@@ -34,6 +34,11 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diff.FocusOppositePane" />
@@ -63,9 +68,17 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -112,6 +125,15 @@
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MoveElementLeft" />
